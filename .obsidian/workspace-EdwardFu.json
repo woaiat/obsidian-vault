@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "9f893f2c7fe070c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea1cc4e4810ae163",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57c44d4b91f78403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记日记/认知笔记/不要盲目更换任务 保留学习记录的重要性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "不要盲目更换任务 保留学习记录的重要性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcb4da8fff8489d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2381423a5ea1d5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d04af88d80a027",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "d29b45e080cf2c38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3718b0e4fa8973ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "59543451becb0a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b32dfd08f4b03f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9d5c0dde8acd8d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记日记/认知笔记/不要盲目更换任务 保留学习记录的重要性.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "不要盲目更换任务 保留学习记录的重要性 的大纲"
+            }
+          },
+          {
+            "id": "d735c319533ceff5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记日记/认知笔记/我其实更偏工科思维？比起理科.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "我其实更偏工科思维？比起理科 的出链列表"
+            }
+          },
+          {
+            "id": "3871a2c135a0bb3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记日记/认知笔记/我其实更偏工科思维？比起理科.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "我其实更偏工科思维？比起理科 的反向链接列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "57c44d4b91f78403",
+  "lastOpenFiles": [
+    "笔记日记/认知笔记/我的兴趣爱好删减.md",
+    "笔记日记/认知笔记/如何停止Fi-Ni的内耗.md",
+    "笔记日记/认知笔记/不要盲目更换任务 保留学习记录的重要性.md",
+    "笔记日记/认知笔记/如何正确的学习.md",
+    "学习资源/考试/大一上期末/C语言/山财期末C语言6-9章题型分类总结（主观题）.md",
+    "学习资源/考试/大一上期末/C语言/山财期末C语言4-5章题型分类总结（主观题）.md",
+    "学习资源/考试/大一上期末/C语言/老师指定重点核心题（保命）.md",
+    "学习资源/工科/语言学习/英语/1500/怕.md",
+    "笔记日记/认知笔记/我其实更偏工科思维？比起理科.md",
+    "笔记日记/认知笔记/兴趣驱动的自由深入探索学习方式.md",
+    "笔记日记/学习进度.md",
+    "学习资源/工科/语言学习/英语/英语词汇积累.md",
+    "学习资源/工科/语言学习/学习流程.md",
+    "学习资源/工科/语言学习/英语/1500",
+    "学习资源/工科/语言学习/英语/A2H.md",
+    "草稿本.md",
+    "学习资源/工科/Python/像素转换器/颜色压缩算法.md",
+    "学习资源/兴趣/控制论/什么是拉普拉斯变换.md",
+    "学习资源/工科/Python/像素转换器/像素操作 putpixel getpixel.md",
+    "学习资源/工科/Python/像素转换器/pillow image 颜色压缩.md",
+    "学习资源/工科/Python/像素转换器/image创建新图.md",
+    "学习资源/工科/Python/像素转换器/pillow image模块基本图像编辑.md",
+    "学习资源/工科/Python/像素转换器/怎么修改某个位置像素的颜色.md",
+    "学习资源/工科/Python/像素转换器/pillow image convert用法 颜色空间转换.md",
+    "学习资源/工科/Python/像素转换器/pillow image 缩放.md",
+    "学习资源/工科/Python/像素转换器/1.像素转换器.canvas",
+    "学习资源/工科/Python/像素转换器/缩放算法 NEAREST和BILINEAR介绍.md",
+    "学习资源/兴趣/控制论/拉普拉斯逆变换.md",
+    "学习资源/兴趣/控制论/0.探索地图.canvas",
+    "学习资源/兴趣/控制论/attachments/Pasted image 20251229165610.png",
+    "学习资源/兴趣/控制论/attachments",
+    "学习资源/兴趣/控制论/控制论.canvas",
+    "学习资源/兴趣/控制论",
+    "Excalidraw",
+    "学习资源/兴趣/控制论",
+    "学习资源/兴趣",
+    "笔记日记/attachments/msedge_t22Kk4VW2w.png",
+    "笔记日记/attachments/msedge_CzrE2dMprW.png",
+    "电子书资源/组合数学 (冯荣权, 宋春伟) (Z-Library).pdf",
+    "学习资源/理科/组合数学",
+    "笔记日记/attachments",
+    "学习资源/理科/高等数学/attachments/Pasted image 20251227111919.png",
+    "电子书资源/高等数学习题集 (北京大学数学科学院 韩松 主编) (Z-Library).pdf",
+    "笔记/认知笔记/未命名.canvas",
+    "学习资源/理科/高等数学/attachments/Pasted image 20251226113205.png",
+    "学习资源/理科/高等数学/attachments/Pasted image 20251226113152.png",
+    "学习资源/专业学科/考研政治/思修/b 思想篇/1 领悟人生真谛 把握人生方向/考点6 个人与社会（发展角度）.canvas",
+    "学习资源/专业学科/考研政治/思修/a 绪论/担当复兴大任 成就时代新人/考点2 思想道德与法治.canvas",
+    "学习资源/专业学科/考研政治/Wiki/对立统一规律.png",
+    "学习资源/专业学科/考研政治/Wiki/恢复行首标签.png",
+    "学习资源/专业学科/考研政治/Wiki/主观能动性和客观规律性.png",
+    "学习资源/专业学科/考研政治/Wiki/移除行首标签.png",
+    "学习资源/专业学科/考研政治/新思想/d 内外条件/13 维护和塑造国家安全/考点125 发展和安全的关系.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/6 推动高质量发展/考点55 国内循环与国际竞争.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/6 推动高质量发展/考点54 国际国内双循环.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/6 推动高质量发展/考点52 分配制度.canvas"
+  ]
+}

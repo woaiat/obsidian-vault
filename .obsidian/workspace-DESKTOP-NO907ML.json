@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "9f893f2c7fe070c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "de80acc6c0b5742e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30393491d3e2502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习资源/理科/高中数学/数列/题目精选.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "题目精选"
+            }
+          },
+          {
+            "id": "33145d33fd0e54e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习资源/理科/高等数学/E0 中值导数应用（Kira）例题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "E0 中值导数应用（Kira）例题"
+            }
+          },
+          {
+            "id": "8ddcd8bcf2ca1969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习资源/理科/高等数学/F0 不定积分（Kira）例题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "F0 不定积分（Kira）例题"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcb4da8fff8489d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2381423a5ea1d5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d04af88d80a027",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "d29b45e080cf2c38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#重做（高数）",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3718b0e4fa8973ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.5
+  },
+  "right": {
+    "id": "59543451becb0a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b32dfd08f4b03f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9d5c0dde8acd8d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习资源/理科/高等数学/F0 不定积分（Kira）例题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "F0 不定积分（Kira）例题 的大纲"
+            }
+          },
+          {
+            "id": "d735c319533ceff5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习资源/专业学科/高等数学/D0 中值定理及导数应用（胡东华）解析版.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "D0 中值定理及导数应用（胡东华）解析版 的出链列表"
+            }
+          },
+          {
+            "id": "3871a2c135a0bb3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "8ddcd8bcf2ca1969",
+  "lastOpenFiles": [
+    "新生研讨课感悟.md",
+    "学习资源/理科/高等数学/1.高等数学大纲.md",
+    "学习资源/理科/高等数学/E0 中值导数应用（Kira）例题.md",
+    "学习资源/理科/高等数学/E0 中值导数应用（Kira）例题解析.md",
+    "学习资源/理科/高等数学/F0 不定积分（Kira）例题.md",
+    "学习资源/理科/高等数学/attachments/Pasted image 20251227111919.png",
+    "学习资源/理科/高中数学/数列/一道导数题的命制.md",
+    "学习资源/理科/高中数学/数列/题目精选.md",
+    "学习资源/理科/高中数学/解三角形.md",
+    "学习资源/理科/高中数学/数列/数列基础知识总结.md",
+    "学习资源/理科/高中数学/数列/A3 周期数列巩固练习.md",
+    "学习资源/理科/高中数学/数列/B1 累加法.md",
+    "学习资源/理科/高中数学/数列/B1 累加法巩固练习.md",
+    "学习资源/工科/Python/像素转换器/项目简介：像素转换器.md",
+    "笔记日记/刷题进度.md",
+    "笔记日记/认知笔记/不要盲目更换任务 保留学习记录的重要性.md",
+    "笔记日记/认知笔记/如何正确的学习.md",
+    "学习资源/理科/高等数学/D3.4 微分线性表示.md",
+    "电子书资源/高等数学习题集 (北京大学数学科学院 韩松 主编) (Z-Library).pdf",
+    "电子书资源/刷书日记.md",
+    "学习资源/理科/高等数学/D0 导数微分例题（Kira）.md",
+    "学习资源/理科/高等数学/D0 导数微分例题（Kira）解析.md",
+    "学习资源/理科/高等数学/D3.3 微分引入.md",
+    "学习资源/理科/高等数学/D3 导数公式.md",
+    "学习资源/理科/高等数学/D6 曲率.md",
+    "学习资源/理科/高等数学/D5 求导技巧.md",
+    "学习资源/理科/高等数学/D5.1 参数方程和隐函数的高阶导数.md",
+    "学习资源/理科/高等数学/B0 函数极限连续（Kira）例题.md",
+    "Excalidraw",
+    "笔记/认知笔记/未命名.canvas",
+    "学习资源/理科/高等数学/attachments/Pasted image 20251226113205.png",
+    "学习资源/理科/高等数学/attachments/Pasted image 20251226113152.png",
+    "学习资源/工科/Python/像素转换器",
+    "学习资源/工科/Python",
+    "学习资源/文科",
+    "学习资源/未命名",
+    "学习资源/工科",
+    "学习资源/理科",
+    "笔记日记",
+    "学习资源/理科/高等数学/attachments",
+    "学习资源/专业学科/考研政治/思修/b 思想篇/1 领悟人生真谛 把握人生方向/考点6 个人与社会（发展角度）.canvas",
+    "学习资源/专业学科/考研政治/思修/a 绪论/担当复兴大任 成就时代新人/考点2 思想道德与法治.canvas",
+    "学习资源/专业学科/考研政治/Wiki/对立统一规律.png",
+    "学习资源/专业学科/考研政治/Wiki/恢复行首标签.png",
+    "学习资源/专业学科/考研政治/Wiki/主观能动性和客观规律性.png",
+    "学习资源/专业学科/考研政治/Wiki/移除行首标签.png",
+    "学习资源/专业学科/考研政治/Wiki/星星之火.png",
+    "学习资源/专业学科/考研政治/Wiki/新民主主义社会五种经济成分.png",
+    "学习资源/专业学科/考研政治/Wiki/实践对认识的决定作用.png",
+    "学习资源/专业学科/考研政治/新思想/d 内外条件/13 维护和塑造国家安全/考点125 发展和安全的关系.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/6 推动高质量发展/考点55 国内循环与国际竞争.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/6 推动高质量发展/考点54 国际国内双循环.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/6 推动高质量发展/考点52 分配制度.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/6 推动高质量发展/考点50 基本经济制度和高质量发展.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/6 推动高质量发展/考点50 基本经济制度关系.canvas",
+    "学习资源/专业学科/考研政治/新思想/c 布局安排/12 建设社会主义生态文明/考点115 生态环境与经济发展关系.canvas"
+  ]
+}
