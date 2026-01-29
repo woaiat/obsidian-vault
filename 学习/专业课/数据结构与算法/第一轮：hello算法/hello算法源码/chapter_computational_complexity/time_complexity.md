@@ -23,7 +23,7 @@
 
 === "C++"
 
-    ```cpp title=""
+    ``` cpp title=""
     // 在某运行平台下
     void algorithm(int n) {
         int a = 2;  // 1 ns
